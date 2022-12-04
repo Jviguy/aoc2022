@@ -9,6 +9,8 @@ import (
 var solutions = []func(in string){
 	DayOne,
 	DayTwo,
+	DayThree,
+	DayFour,
 }
 
 func Run(day int) {
