@@ -11,6 +11,7 @@ var solutions = []func(in string){
 	DayTwo,
 	DayThree,
 	DayFour,
+	DayFive,
 }
 
 func Run(day int) {
