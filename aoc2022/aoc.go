@@ -13,6 +13,7 @@ var solutions = []func(in string){
 	DayFour,
 	DayFive,
 	DaySix,
+	DaySeven,
 }
 
 func Run(day int) {
